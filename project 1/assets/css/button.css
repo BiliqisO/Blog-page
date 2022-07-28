@@ -1,0 +1,14 @@
+.primary{
+    height: 50px;
+    min-width:200px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    font-weight: 400;
+    border: 2px solid white;
+
+
+}
